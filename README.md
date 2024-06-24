@@ -1,4 +1,4 @@
-This repo contains the files I worked on during my Machine Learning internship at Cognifyz technologies. The internship was undertaken in Jan-Feb 2024. They provided me a large dataset of restaurants and my main role for me was to build a model to predict the ratings of restaurants and gather meaningful insights from the data. My regression model achieved an accuracy of 98% and further details are listed below.
+This repo contains the files I worked on during my Machine Learning internship at Cognifyz technologies. The internship was undertaken in Jun-july 2024. They provided me a large dataset of restaurants and my main role for me was to build a model to predict the ratings of restaurants and gather meaningful insights from the data. My regression model achieved an accuracy of 98% and further details are listed below.
 
 Task 1
 Objective: Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
@@ -9,6 +9,8 @@ Preprocess the dataset by handling missing values, encoding categorical variable
 Select a regression algorithm (e.g., linear regression, decision tree regression) and train it on the training data.
 Evaluate the model's performance using appropriate regression metrics (e.g., mean squared error, R-squared) on the testing data.
 Interpret the model's results and analyze the most influential features affecting restaurant ratings.
+
+
 Task 2
 Objective: Create a restaurant recommendation system based on user preferences.
 
@@ -37,3 +39,4 @@ Explore the latitude and longitude coordinates of the restaurants and visualize 
 Group the restaurants by city or locality and analyze the concentration of restaurants in different areas.
 Calculate statistics such as the average ratings, cuisines, or price ranges by city or locality.
 Identify any interesting insights or patterns related to the locations of the restaurants.
+*i used jupiter notebook to do this*
